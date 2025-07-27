@@ -46,6 +46,18 @@ You may go through these guidelines and contribute accordingly:
 * Just mention the issue against which the pull request is open by writing ```Fixes #(your issue number)``` in the description of the pull request
 * Do not update the [README.md](README.md).
 
+## 📌 How to Contribute
+
+To contribute to this project:
+1. Fork the repository
+2. Clone the forked repo
+3. Create a new branch
+4. Make your changes
+5. Commit and push
+6. Open a pull request
+
+Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
 ## Guidelines for code base :
 * Use **1 tab or 4 spaces** indentation.
 * Add the **description** of your algorithm using multi-line comments at the starting of the code.
